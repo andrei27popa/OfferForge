@@ -1,0 +1,5 @@
+{
+  "name": "OfferForge",
+  "description": "Aplicație rapidă pentru generarea ofertelor comerciale, destinată IMM-urilor. Permite crearea, gestionarea și exportul PDF al ofertelor în mai puțin de 60 de secunde.",
+  "requestFramePermissions": []
+}
